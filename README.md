@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This platform showcases my journey as a software developer, highlighting my skills, projects, and achievements. Designed with a focus on clean aesthetics, responsive performance, and user-centric design, it provides an interactive overview of my capabilities.
 
-🌐 **Visit Live Portfolio:** [Your Vercel Portfolio URL Here]
+🌐 **Visit Live Portfolio:** [https://pavan-thrikoti-pottupalli-portfolio.vercel.app/]
 
 ---
 
@@ -64,12 +64,12 @@ To run this project locally:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/pavanthrikoti/your-portfolio-repo.git
+   git clone https://github.com/pavanthrikoti/Portfolio.git
    ```
 
 2. **Navigate to the project directory:**
    ```sh
-   cd your-portfolio-repo
+   cd portfolio-website
    ```
 
 3. **Open `index.html`:**
@@ -115,8 +115,8 @@ I welcome contributions to this project! If you have suggestions for improvement
 Built with ❤️ by **Pavan Thrikoti Pottupalli**.
 
 **Connect with me on:**
-- [LinkedIn](#)
-- [GitHub](#)
+- [LinkedIn](https://www.linkedin.com/in/pavan-thrikoti-pottupalli-330822254/)
+- [GitHub](https://github.com/pavanthrikoti)
 
 Or reach out directly via email: [pavanthrikoti@gmail.com](mailto:pavanthrikoti@gmail.com)
 
